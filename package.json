@@ -1,0 +1,23 @@
+{
+  "name": "spark7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagmohan13/spark7.git"
+  },
+  "author": "Jaggi 47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagmohan13/spark7/issues"
+  },
+  "homepage": "https://github.com/Jagmohan13/spark7#readme"
+}
