@@ -12,5 +12,5 @@ app.use('/api', router);
 const httpServer = http.createServer(app);
 
 httpServer.listen(3000, function(err,res) {
-    console.log(`Express server listening,`)
+    console.log(`Express server listening on PORT 3000`)
 })
